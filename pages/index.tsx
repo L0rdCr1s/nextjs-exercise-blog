@@ -13,7 +13,14 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>
+          No, i am not a programmer, i am just another crazy person afraid of
+          slow marching of time that is guiding us to inevitable death.
+        </p>
+        <p>
+          Yes, you're probably right, i am in a mission to search for a way to
+          transfer my fucked up conscious to an immortal machine.
+        </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
